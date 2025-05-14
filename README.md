@@ -1,6 +1,5 @@
 ## Project Overview
 This project develops machine learning models to automatically distinguish between AI-generated images and authentic human-made images. We evaluate convolutional neural networks (CNNs) and transformer-based architectures on large-scale datasets to establish reliable detection methods.
-Motivation
 With the rapid advancement of generative AI technologies like GPT-4o, distinguishing synthetic from authentic content has become critical for:
 
 Preventing deepfakes and misinformation
